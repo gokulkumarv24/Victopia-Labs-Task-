@@ -246,7 +246,6 @@ CREATE TABLE tasks (
    ```bash
    cd backend
    ```
-
 2. **Create virtual environment**:
 
    ```bash
@@ -254,13 +253,11 @@ CREATE TABLE tasks (
    venv\Scripts\activate  # Windows
    # source venv/bin/activate  # macOS/Linux
    ```
-
 3. **Install dependencies**:
 
    ```bash
    pip install -r requirements.txt
    ```
-
 4. **Configure environment**:
 
    ```bash
@@ -274,7 +271,6 @@ CREATE TABLE tasks (
    GEMINI_API_KEY=your_gemini_api_key_here
    SECRET_KEY=your_super_secret_jwt_key_here
    ```
-
 5. **Start the backend server**:
 
    ```bash
@@ -292,13 +288,11 @@ CREATE TABLE tasks (
    ```bash
    cd frontend
    ```
-
 2. **Install dependencies**:
 
    ```bash
    npm install
    ```
-
 3. **Start the frontend**:
 
    ```bash
@@ -331,12 +325,12 @@ CREATE TABLE tasks (
 
 1. **Open AI Assistant**: Click the chat bubble in bottom-right corner
 2. **Natural Language Commands**: Type commands like:
+
    - "Add a task to prepare presentation"
    - "Start working on presentation task"
    - "Mark presentation task as completed"
    - "Show all completed tasks"
    - "Delete the old presentation task"
-
 3. **Command Results**: AI shows confirmation and updates the task list
 4. **Error Handling**: AI provides clear feedback for invalid commands
 
@@ -771,17 +765,17 @@ This project demonstrates modern full-stack development patterns:
 
 ### ✅ Requirements Fulfilled
 
-- [x] **Core Functionality**: Create, view, update, delete tasks
-- [x] **State Management**: Exact states with enforced transitions
-- [x] **AI Integration**: Natural language command processing
-- [x] **Architecture**: AI as input layer only, centralized business logic
-- [x] **Database**: SQLite with clear schema design
-- [x] **Authentication**: JWT-based user authentication
-- [x] **Frontend**: Responsive React with TypeScript
-- [x] **Documentation**: Comprehensive README with all required sections
-- [x] **Error Handling**: Graceful handling of invalid operations
-- [x] **State Rules**: Centralized validation, no business logic in UI/AI
-- [x] **Professional Quality**: Production-ready code structure
+- [X] **Core Functionality**: Create, view, update, delete tasks
+- [X] **State Management**: Exact states with enforced transitions
+- [X] **AI Integration**: Natural language command processing
+- [X] **Architecture**: AI as input layer only, centralized business logic
+- [X] **Database**: SQLite with clear schema design
+- [X] **Authentication**: JWT-based user authentication
+- [X] **Frontend**: Responsive React with TypeScript
+- [X] **Documentation**: Comprehensive README with all required sections
+- [X] **Error Handling**: Graceful handling of invalid operations
+- [X] **State Rules**: Centralized validation, no business logic in UI/AI
+- [X] **Professional Quality**: Production-ready code structure
 
 ### 🎯 Success Metrics
 
@@ -798,5 +792,6 @@ This implementation successfully demonstrates:
 ---
 
 _Built with ❤️ using modern full-stack technologies_
-#   V i c t o p i a - L a b s - T a s k -  
- 
+#� �V�i�c�t�o�p�i�a�-�L�a�b�s�-�T�a�s�k�-�
+�
+�
